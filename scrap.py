@@ -111,6 +111,7 @@ for idx, row in df.iterrows() :
     count += 1
     # take a break for youtube new upload
     time.sleep(5)
+    break
 
 # update removing row to csv
 df.to_csv('youtube_shorts_videos_data.csv', index=False)
