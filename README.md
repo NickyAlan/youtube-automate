@@ -7,5 +7,4 @@ Can be done using Python and some useful libraries.
 - The merged video can then be uploaded to a specific YouTube channel using YouTube API 3. A helpful video tutorial for this task can be found at https://youtu.be/eq-mjehACe4. 
 - Lastly, the scraped data can be updated to a .csv file by using Pandas. 
 - This entire process becomes easier with the help of [my best friends](https://chat.openai.com/).
-
-[![Demo Video](https://img.youtube.com/vi/NJWPkq1pNwA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NJWPkq1pNwA)
+- see demo on Youtube : https://www.youtube.com/watch?v=NJWPkq1pNwA)
